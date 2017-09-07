@@ -10,3 +10,10 @@ cp -rf $line $cpdir/$line
 #echo cp -rf $line $cpdir/$line
 
 done < ./cp.txt
+
+dd
+d
+d
+d
+d
+
