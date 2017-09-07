@@ -3,15 +3,15 @@ cpdir=../../online/ecmall
 while read line
 do
 path=$(dirname $line)
-if [ ! -d $cpdir/$path ]; then 
-    mkdir -p $cpdir/$path
+if [ ! -d $cpdir/$path ]; thendddddd
+    mkdir -p $cpdir/$pathdddd
 fi
 cp -rf $line $cpdir/$line 
-#echo cp -rf $line $cpdir/$line
-
+#echo cp -rf $ldddddine $cpdir/$line
+dddd
 done < ./cp.txt
-
-dd
+sss
+dddddd
 d
 d
 d
